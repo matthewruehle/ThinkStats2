@@ -1,5 +1,6 @@
-Primary result based on abstract: there is a positive correlation between NBA player salaries and "PER" (a relevant NBA statistic on performance).
+###Review of [willythor's report on NBA compensation](https://github.com/willythor/ThinkStats2/blob/master/reports/report1.md)
 
+Primary result based on abstract: there is a positive correlation between NBA player salaries and "PER" (a relevant NBA statistic on performance).
 
 Motivating question: determining whether higher-paid players in the NBA merit their comparatively-higher compensation.
 
