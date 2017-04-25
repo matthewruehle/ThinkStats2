@@ -15,3 +15,6 @@ I like seeing a confusion matrix, and find it quite telling that there seems to 
 Overall, I found the report quite readable, and also managed to follow along with the methods. There were a few points when the report went a bit more "basic" than I would like (e.g., "Correct predictions lie on the main diagonal, and any other square is an incorrect prediction. Thus, a perfect prediction from our K-Means algorithm would be seen if the main diagonal of the matrix was black squares," - arguably not a necessary clarification), but erring on the side of assuming less prior knowledge is quite defensible.
 
 As an aside - and I'm not quite certain whether this would mesh with your vision of your project and report - there's a short but interesting reading in [this paper](https://www.ncbi.nlm.nih.gov/pubmed/8375951) and [this Time article](http://time.com/4130043/lobbying-politics-dietary-guidelines/). This might be some relevant policy context for the data you're working with!
+
+
+Edit - one last note, it looks like your figures are all in italics - except for figure 3, which is instead bolded. This is probably just a formatting typo, but might be worth fixing!
